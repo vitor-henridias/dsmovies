@@ -15,7 +15,7 @@ import com.devsuperior.dsmovie.services.MovieService;
 @RequestMapping(value = "/movies")
 public class MovieController {
 	
-	@Autowired
+	@Autowired 
 	private MovieService service;
 
 	@GetMapping
