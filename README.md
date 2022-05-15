@@ -1,4 +1,4 @@
-# DSMovie
+# DSMovie 🎥
 
 <h1> Projeto Desenvolvido junto ao Curos Spring React - DEVSuperior </h1>
 
